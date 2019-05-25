@@ -123,20 +123,20 @@ header #header-bar>.row, #main .menu-wrapper, #main #main-content>div.frame {
 .pagination>.active>span,
 .pagination>.active>span:focus,
 .pagination>.active>span:hover {
-  background-color: #77b625;
-  border-color: #77b625;
+  background-color: #378900;
+  border-color: #378900;
 }
 
 .pagination>li>a:focus,
 .pagination>li>a:hover,
 .pagination>li>span:focus,
 .pagination>li>span:hover {
-  color: #77b625;
+  color: #378900;
 }
 
 .pagination>li>a,
 .pagination>li>span {
-  color: #77b625;
+  color: #378900;
 }
 
 #article-content-wrapper>.header {

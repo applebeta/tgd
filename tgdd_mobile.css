@@ -4,7 +4,6 @@ body {
   letter-spacing: -0.05em !important;
   background: transparent;
   font-family: 'Nanum Gothic', Arial, Helvetica, sans-serif;
-
 }
 
 #article-list>.article-list-row>.item>.list-title>.list-writer>span {
@@ -130,7 +129,6 @@ header>#header-search-bar #header-search-input {
 #article-list>.article-list-row>.item>a.list-title>.list-writer.logged>span {
   color: #378900;
 }
-
 
 #nav#nav>.nav-header {
   background-color: #378900;
